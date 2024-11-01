@@ -1,7 +1,19 @@
-# A Blog Starter App
+# A Simple Blog 
 
-This is a trivial blog app, started with Vite.
+CMSI 2021 Homework 3
 
-It works entirely within memory, so reloads blow everything away except for the first two mock articles.
+Project Description:
 
-This repo is designed for you to fork and extend with (1) better CSS and (2) a real back end, with authentication and a database.
+This is a simple blog application where users can create, view, and explore blog posts. It uses Firebase for backend services like authentication and Firestore as a real-time database. The app has features such as Google sign-in, dynamic content rendering, and a clean user-friendly interface.
+
+Features: 
+
+Google Authentication
+Article Management
+Real-time Data
+Responsive Design
+
+Live Link on Firebase Hosting
+
+https://a-simple-blog.web.app/ 
+https://a-simple-blog.firebaseapp.com/
